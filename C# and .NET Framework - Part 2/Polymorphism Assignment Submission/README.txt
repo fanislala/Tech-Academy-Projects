@@ -1,1 +1,0 @@
-This Project teaches enthusiast to use the C# programming language in conjunction with Microsoft's .NET Framework to build the back-end of web applications. This is the Second course in a two-part series.

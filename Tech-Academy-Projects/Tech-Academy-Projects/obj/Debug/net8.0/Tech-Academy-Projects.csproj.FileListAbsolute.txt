@@ -1,0 +1,15 @@
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\bin\Debug\net8.0\Tech-Academy-Projects.exe
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\bin\Debug\net8.0\Tech-Academy-Projects.deps.json
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\bin\Debug\net8.0\Tech-Academy-Projects.runtimeconfig.json
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\bin\Debug\net8.0\Tech-Academy-Projects.dll
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\bin\Debug\net8.0\Tech-Academy-Projects.pdb
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\Tech-Academy-Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\Tech-Academy-Projects.AssemblyInfoInputs.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\Tech-Academy-Projects.AssemblyInfo.cs
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\Tech-Academy-Projects.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\Tech-Academy-Projects.sourcelink.json
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\Tech-Academy-Projects.dll
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\refint\Tech-Academy-Projects.dll
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\Tech-Academy-Projects.pdb
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\Tech-Academy-Projects.genruntimeconfig.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Tech-Academy-Projects\Tech-Academy-Projects\Tech-Academy-Projects\obj\Debug\net8.0\ref\Tech-Academy-Projects.dll
